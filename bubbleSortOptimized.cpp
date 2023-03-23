@@ -1,7 +1,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-
+//this is optimized bubble sort
 vector <int> bubbleSortOpti(vector <int> vec){
     int n = vec.size();
     int temp;
