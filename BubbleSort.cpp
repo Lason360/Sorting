@@ -1,7 +1,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-
+//this is Bubble Sort
 vector <int> bubbleSort(vector <int> vec){
     int n = vec.size();
     int temp;
